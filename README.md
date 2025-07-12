@@ -1,6 +1,6 @@
 # Hi, I am Sasha!
-🔭 Studied "Entrepreneurship, trade and stock exchange activity" in Kyiv<br>🌱 I’m currently learning about data analytics<br>⚡ In my free time, I enjoy sewing, working out, or exploring investments
-
+🔭 Studied "Entrepreneurship, trade and stock exchange activity" in Kyiv<br>🌱 I’m currently learning about data analytics<br>⚡ In my free time, I enjoy sewing, working out, or exploring investments<br>
+😊[My portfolio](https://github.com/SashaSyl/my_portfolio.git)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Oleksandrasylchenko@gamil.com) 
