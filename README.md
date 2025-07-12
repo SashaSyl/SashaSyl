@@ -1,5 +1,5 @@
 # Hi, I am Sasha!
-🔭 Studied "Entrepreneurship, trade and stock exchange activity" in Kyiv<br>🌱 I’m currently learning about data analytics<br>⚡ In my free time, I enjoy sewing, working out, or exploring investments<br>
+🔭 Studied "Entrepreneurship, trade and stock exchange activity" in Kyiv<br>🌱 I’m currently learning about data analytics<br>⚡ In my free time I enjoy sewing, working out or exploring investments<br>
 😊[My portfolio](https://github.com/SashaSyl/my_portfolio.git)
 
 ## 🌐 Socials:
